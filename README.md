@@ -1,6 +1,6 @@
 # Использован курс Интенсив JavaScript 1.0. #1 Введение. Node.js. API
 [EasyCode](https://www.youtube.com/watch?v=obPFS7_ACzQ&list=PLlwtdxQXoJAumULW7U2HGNGKg45U9drVF)
-# Материалы
+# Материалыt 
 1. [Firebase Docks](https://firebase.google.com/docs/auth/web/password-auth)
 2. [Firebase reset password](https://firebase.google.com/docs/auth/web/manage-users?hl=ru) там вы найдете метод sendPasswordResetEmail
 
